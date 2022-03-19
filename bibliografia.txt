@@ -1,0 +1,9 @@
+Guardar un CSV descargado usando Python
+https://stackoverflow.com/questions/45978295/saving-a-downloaded-csv-file-using-python
+CHEKEAR SI EXISTE UNA TABLA EN LA BASE DE DATOS CON SLQALCHEMY
+https://stackoverflow.com/questions/33053241/sqlalchemy-if-table-does-not-exist
+https://stackoverflow.com/questions/64861610/easily-check-if-table-exists-with-python-sqlalchemy-on-an-sql-database/64862306#64862306
+SettingWithCopyWarning
+https://www.youtube.com/watch?v=4R4WsDJ-KVc
+EJECUTAR .SQL DESDE PYTHON CON SQLAlchemy
+https://stackoverflow.com/questions/2268050/execute-sql-from-file-in-sqlalchemy

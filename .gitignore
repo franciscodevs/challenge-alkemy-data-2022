@@ -1,0 +1,13 @@
+.env
+.ipynb_checkpoints
+
+api.py
+extraction.py
+transformation.py
+load.py
+pruebas.py
+README-español.md
+data
+csv
+Challenge Alkemy.ipynb
+etl_venv
